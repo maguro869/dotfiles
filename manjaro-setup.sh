@@ -17,11 +17,6 @@ sudo pacman -Syyu
 sudo pacman -S xdg-user-dirs-gtk
 LANG=C xdg-user-dirs-gtk-update
 
-echo -n "mopidyをインストールしますか？(Y/n)"
-read yn
-if [ $yn -gt "Y" ];then
-    sudo pacman -S mopidy mopidy-mpd mopidy-spotify
-
 
 echo "--------INSTALL COMPLETE---------"
 
