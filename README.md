@@ -1,2 +1,2 @@
-# my-linux-setting-file
+# dotfiles
 環境変えても共通の.xxxrc等を使うためのメモリポジトリ
